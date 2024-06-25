@@ -1,1 +1,1 @@
-# arc-smallresources
+# arc-core
