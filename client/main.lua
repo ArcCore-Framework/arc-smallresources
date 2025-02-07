@@ -1,1 +1,0 @@
-Arc = exports['arc-core']:GetArcCore()
